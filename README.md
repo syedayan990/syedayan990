@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development, DSA, and AI/ML projects.<br><br>👯 I’m looking to collaborate on Open Source, MERN Stack, and Machine Learning projects.<br><br>🤝 I’m looking for help with System Design, Backend Development, and Open Source contributions.<br><br>🌱 I’m currently learning Data Structures & Algorithms, React.js, Node.js, Express.js, MongoDB, and Machine Learning.<br><br>💬 Ask me about C++, JavaScript, React, Node.js, Git, and DSA.<br><br>⚡ Fun fact: I enjoy turning ideas into real-world projects and solving coding challenges every day.
+🔭 **Currently working on:** Full Stack Web Development, DSA, and AI/ML projects, with a focus on building practical and scalable applications.
+
+🌱 **Currently learning:** Advanced Data Structures & Algorithms, Backend Development, System Design, and Machine Learning.
+
+💻 **Tech I work with:** C++, JavaScript, React.js, Node.js, Express.js, MongoDB, Git, and REST APIs.
+
+🚀 **Interested in:** Software Engineering, Backend Systems, Open Source, and building real-world products.
+
+🤝 **Open to:** Collaborating on meaningful open-source, full-stack, and developer-focused projects.
+
+💬 **Ask me about:** C++, JavaScript, MERN Stack, DSA, Git/GitHub, and backend development.
+
+⚡ **Fun fact:** I enjoy turning ideas into working products and continuously improving my problem-solving skills through hands-on projects and coding.
+
 
 
 ## 🌐 Socials:
