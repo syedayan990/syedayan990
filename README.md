@@ -82,7 +82,7 @@ I am a B.Tech student who enjoys turning ideas into working products. I focus on
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedayan990&bg_color=0d1117&color=22d3ee&line=818cf8&point=c084fc&area=true&area_color=818cf8&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img width="100%" src="./contributions.svg" alt="Contribution Graph" />
 </p>
 
 <img src="./divider.svg" width="100%" alt="" />
